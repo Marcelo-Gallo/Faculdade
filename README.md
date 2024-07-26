@@ -3,4 +3,4 @@ Aqui você encontrará atividades, projetos, resumos, notas pessoais e muito mai
 
 ## 📚 Disciplinas:
 ### 1° Ano
-#### [Disciplina Teste](https://github.com/MarceloGallo/Faculdade/teste)
+#### [Disciplina Teste](https://github.com/MarceloGallo/Faculdade/tree/main/teste)
