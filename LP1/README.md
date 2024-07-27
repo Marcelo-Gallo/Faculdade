@@ -4,11 +4,11 @@ Bem-vindo ao repositório da disciplina **Linguagem de Programação 1 (LP1)** d
 
 ## 📖 Índice
 
-- [Sobre a Disciplina](#sobre-a-disciplina)
-- [Objetivos](#objetivos)
-- [Conteúdo Programático](#conteúdo-programático)
-- [Projetos](#projetos)
-- [Recursos Adicionais](#recursos-adicionais)
+- Sobre a Disciplina
+- Objetivos
+- Conteúdo Programático
+- Projetos
+- Recursos Adicionais
 
 ## 📚 Sobre a Disciplina
 
