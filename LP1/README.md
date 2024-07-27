@@ -9,69 +9,42 @@ Bem-vindo ao repositório da disciplina **Linguagem de Programação 1 (LP1)** d
 - [Conteúdo Programático](#conteúdo-programático)
 - [Projetos](#projetos)
 - [Recursos Adicionais](#recursos-adicionais)
-- [Contribuições](#contribuições)
-- [Contato](#contato)
 
 ## 📚 Sobre a Disciplina
 
-A disciplina de **Linguagem de Programação 1 (LP1)** introduz os conceitos básicos de programação, lógica de programação e estrutura de dados. É fundamental para o desenvolvimento de habilidades de codificação e resolução de problemas.
+A disciplina de **Linguagem de Programação 1 (LP1)** introduz os conceitos básicos de programação orientada a objetos, utilizando java. É fundamental para o desenvolvimento de habilidades de codificação e resolução de problemas intermediarios.
 
 ## 🎯 Objetivos
 
-- Compreender os fundamentos da programação.
-- Desenvolver habilidades em lógica de programação.
-- Aprender a utilizar estruturas de controle e repetição.
-- Implementar estruturas de dados básicas.
+- Compreender os fundamentos da programação orientada a objetos.
+- Desenvolver habilidades em lógica de programação orientada a objetos.
+- Aprender a utilizar banco de dados para validar informações.
+- Implementar lógicas mais complexas.
 
 ## 🗂️ Conteúdo Programático
 
-1. **Introdução à Programação**
-   - Conceitos básicos
+1. **Introdução à Programação Orientada a Objetos**
+   - Padrão MVC
    - Ambiente de desenvolvimento
-2. **Lógica de Programação**
-   - Algoritmos
-   - Fluxogramas
-3. **Estruturas de Controle**
-   - Condicionais
-   - Laços de repetição
-4. **Estruturas de Dados Básicas**
-   - Arrays
-   - Listas
+   - Orientação a objetos
+2. **Projeto 1**
+   - Lógica para o cadastro de clientes
+3. **Projeto 2**
+   - Lógica para cadastro de produtos e seus fornecedores
+4. **Projeto 3**
+   - Lógica para gerenciar clientes, produtos e seus fornecedores
+5. **Projeto 4**
+   - Lógica de login para um funcionario que gerencia pelo sistema vendas de produtos para clientes, produtos e seus fornecedores
 
 ## 🚀 Projetos
 
 Os projetos desenvolvidos ao longo do curso são essenciais para a aplicação prática dos conceitos aprendidos. Clique nos links abaixo para acessar os detalhes de cada projeto:
 
-- [Projeto 1](Projeto1/README.md)
-- [Projeto 2](Projeto2/README.md)
-- [Projeto 3](Projeto3/README.md)
-- [Projeto 4](Projeto4/README.md)
+- [Projeto 1](./Projeto_1/)
+- [Projeto 2](./Projeto_2/)
+- [Projeto 3](./Projeto_3/)
+- [Projeto 4](./Projeto_4/)
 
 ## 📚 Recursos Adicionais
 
-- [Documentação Oficial da Linguagem](#)
-- [Tutoriais de Programação](#)
-- [Exercícios Práticos](#)
-- [Vídeos Educacionais](#)
-
-## 💡 Contribuições
-
-Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e enviar pull requests. Para contribuir, siga os passos abaixo:
-
-1. Faça um fork do projeto.
-2. Crie uma branch para a sua feature (`git checkout -b feature/nome-da-feature`).
-3. Commit suas mudanças (`git commit -m 'Adiciona nova feature'`).
-4. Faça um push para a branch (`git push origin feature/nome-da-feature`).
-5. Abra um Pull Request.
-
-## 📧 Contato
-
-Para dúvidas ou mais informações, entre em contato:
-
-- **Nome:** Marcelo Gallo
-- **E-mail:** [seu-email@dominio.com](mailto:seu-email@dominio.com)
-- **LinkedIn:** [seu-perfil-linkedin](https://www.linkedin.com/in/seu-perfil)
-
----
-
-**Desenvolvido por Marcelo Gallo**
+- [Documentação Oficial da Linguagem](https://docs.oracle.com/en/java/)
