@@ -15,7 +15,7 @@ public class ConexaoDAO {
         try{
             //Dados para conectar com o banco de dados Postgres
             String dsn = "###"; //nome do banco de dados
-            String user =  "###";//nome do usuario utilizad0 para se conectar
+            String user = "###";//nome do usuario utilizad0 para se conectar
             String senha = "###"; //senha do usuario acima informado
             
             DriverManager.registerDriver(new org.postgresql.Driver());
