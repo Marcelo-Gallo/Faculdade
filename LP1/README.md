@@ -23,17 +23,17 @@ A disciplina de **Linguagem de Programação 1 (LP1)** introduz os conceitos bá
 
 ## 🗂️ Conteúdo Programático
 
-1. **Introdução à Programação Orientada a Objetos**
+- **Introdução à Programação Orientada a Objetos**
    - Padrão MVC
    - Ambiente de desenvolvimento
    - Orientação a objetos
-2. **Projeto 1**
+- **Projeto 1**
    - Lógica para o cadastro de clientes
-3. **Projeto 2**
+- **Projeto 2**
    - Lógica para cadastro de produtos e seus fornecedores
-4. **Projeto 3**
+- **Projeto 3**
    - Lógica para gerenciar clientes, produtos e seus fornecedores
-5. **Projeto 4**
+- **Projeto 4**
    - Lógica de login para um funcionario que gerencia pelo sistema vendas de produtos para clientes, produtos e seus fornecedores
 
 ## 🚀 Projetos
